@@ -1,1 +1,3 @@
-# booki-starter-pack
+BOOKI ( projet openclassroom )
+
+Créez la page d'accueil d'une agence de voyage avec HTML & CSS
